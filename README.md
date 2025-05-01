@@ -1,2 +1,2 @@
 # JavaScriptSmallProjects
-These are my small JavaScript projects
+These are my JavaScript projects
